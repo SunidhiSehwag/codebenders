@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+    
     int num1,num2,temp;
     cin>>num1>>num2;
     temp=num1;
